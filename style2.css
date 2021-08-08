@@ -1,0 +1,36 @@
+
+body{
+    margin: auto;
+    width: 90%;
+}
+
+.container1{
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.container2, .container3{
+    margin-top: 60px;
+    display: flex;
+    
+}
+
+
+.box1 img{
+    height: 300px;
+    width: 400px;
+}
+.box2{
+    text-align: center;
+    margin-left: 50px;
+}
+
+.footer div{
+    text-align: center; 
+    margin-top: 40%;
+    height: 45px;
+    padding: 10px;
+    border-top: 1px solid black;
+    background-color: cadetblue;
+}

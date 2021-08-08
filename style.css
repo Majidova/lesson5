@@ -1,0 +1,56 @@
+section{
+    width: 60%;
+    margin: auto;
+}
+
+.container-1 div{
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.box-2{
+    padding: 25px;
+}
+.container-2 , .container-3 , .container-4{
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+.container-2 div{
+    border: 1px solid black;
+    flex: 8;
+   margin-top: 30px;
+   margin-right: 20px;
+}
+
+.container-3 div{
+    border: 1px solid black;
+    flex: 4;
+   margin-top: 30px;
+   margin-right: 20px;
+}
+
+
+.container-4 div{
+    border: 1px solid black;
+    flex: 2;
+   margin-top: 30px;
+   margin-right: 20px;
+}
+
+.footer div{
+    text-align: center; 
+    margin-top: 225px;
+    height: 45px;
+    padding: 10px;
+    border-top: 1px solid black;
+    background-color: cadetblue;
+}
+  
+
+
+
